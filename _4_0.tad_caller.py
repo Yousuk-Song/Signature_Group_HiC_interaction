@@ -1,4 +1,4 @@
-#!/home/juyoung/anaconda3/envs/FANC/bin/python
+
 
 import sys
 import os
