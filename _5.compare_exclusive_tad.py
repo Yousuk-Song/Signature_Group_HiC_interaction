@@ -1,4 +1,4 @@
-#!/home/juyoung/anaconda3/envs/py311/bin/python3.11
+
 
 import sys
 import os
